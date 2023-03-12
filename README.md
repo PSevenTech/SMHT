@@ -1,0 +1,2 @@
+# SMHTMyVersion
+function clear() removed 
